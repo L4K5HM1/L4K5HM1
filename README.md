@@ -12,4 +12,4 @@ These results come from one stationary recording. They measure how much the repo
 
 [See my notebook, graphs, and recordings](https://github.com/EthanGopez/HAND/tree/vha_onboarding_lmuppana/onboarding/vha/lmuppana)
 
-I used the demo from [ECLAIR's HAND project](https://github.com/EthanGopez/HAND) and had AI help with setup, code, and writing. I tested the smoothing on saved recordings and haven't used it to control a physical robot.
+I used the demo from [ECLAIR's HAND project](https://github.com/EthanGopez/HAND) and had AI help with setup and code. I tested the smoothing on saved recordings and haven't used it to control a physical robot YET.
